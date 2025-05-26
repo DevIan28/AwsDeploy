@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rKQfyUYbdy0=",
+  "dgSpecHash": "mO1LQh7VyaM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ianm2\\OneDrive\\Documentos\\GitHub\\ServicesDevelopment\\Exams\\Exam-03\\MoneyBankService\\MoneyBankService.Api\\MoneyBankService.Api.csproj",
+  "projectFilePath": "C:\\Users\\ianm2\\OneDrive\\Documentos\\GitHub\\AwsDeploy\\MoneyBankService\\MoneyBankService.Api\\MoneyBankService.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ianm2\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ianm2\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
